@@ -1,0 +1,47 @@
+body{
+margin-left:100px;
+}
+
+body{
+font-family:helvetica, sans-serif;
+}
+h1{
+color:#5c0bb8;
+border-bottom:2px solid #4e8a3e;
+margin-right:70%;
+}
+#image{
+border:5px double brown;
+border-radius:50%;
+}
+h2{
+border-radius:50%;
+color:#f60303;
+text-shadow: 3px 3px 7px black;
+}
+ul{
+list-style:none;
+}
+ul li{
+border-bottom:2px solid gray;
+margin-right:70%;
+}
+h3{
+padding:3px;
+border-left: 2px solid black;
+margin-left:3px
+
+}
+h4{
+border-left: solid black;
+padding:5px
+}
+#sekani{
+margin-left:40px;
+}
+#vin{
+margin-left:40px;
+}
+#heart{
+color:red
+}
